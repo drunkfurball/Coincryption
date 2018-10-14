@@ -1,0 +1,10 @@
+#gameboard {
+    width:640px;
+    float: left;
+    
+}
+#instructions {
+    max-width: 40%;
+    padding: 16px;
+    float: left;
+}
